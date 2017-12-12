@@ -1,0 +1,3 @@
+Hello world!
+
+As you may know by now Git is the version control system (VCS). That means that mentioned software will make your life easier when working with changing information. It allows you to store various Versions of the same file. So whenever you need to use an old code you (or mates) wrote a decade ago, just go back to earlier version and find out all necessary information (who made changes, when, etc.)
