@@ -1,0 +1,9 @@
+GitHub is a Git based Web-based hosting service with user-friendly interface.
+Some kind of social network for developers.
+Even though the main idea of GitHub is to store codes, users may also help each other with coding or perform cooperating work, communicate and follow the updates of each other.
+As a padawans in coding we have to learn how to use
+this wonderful web service, that will surely serve to all our needs in coding area.
+
+
+P.S
+If you ready to spend some money, you can get private repositories that are available to chosen ones.
