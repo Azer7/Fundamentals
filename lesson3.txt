@@ -1,0 +1,59 @@
+1. Variable.
+
+Named memory area which can be used to access (keep track, hold) the data. Data that in Variable is called VALUE.
+In other words, variable is a bucket (named memory area), that can hold water (data). 
+As you noticed, it's NAMED. So, it must have a name. 
+Name of the variable is up to us and it should represent the piece of data tha we want to hold.
+Name must be a one word, we can use dollar sign letter or numbers and underline, and can't start with the number.
+
+2. Data types.
+
+When we have named variable, but haven't give value yet, the variable is UNDEFINED.
+
+we start with var , then give a name to it, and then value can be set after the equal sign (operator):
+
+var number = 200; - NUMBER (integer or fractional, for arithmetic operations)
+var name = "Hoi Hoi";  - STRING (in single or double quotes, but don't mix them)
+var bull = false; - BULLIAN (for verifications in decision-making)
+var bull = true; - BULLIAN
+
+
+
+3. Arithmetic operators.
++ addition
+- subtraction
+* multiplication
+/ devision
+
+var a = 200;
+var b = 10;
+var result = 200-10
+
+
+4. Logical operators
+
+&&
+||
+!
+
+
+5. Relational operators
+
+
+> greater than
+< less that
+== equal
+!= not equal
+>= greaterthan or equal
+<= less than or equal
+
+
+var sum = 260 ;
+var change = 0.2 , 0.8, 0.18 ;
+
+console.log(sum <= 250 && (change == "0.2" || change == "0.8" || change == "0.88"));
+
+
+
+
+
