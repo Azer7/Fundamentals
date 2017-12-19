@@ -1,0 +1,17 @@
+var n = Number(prompt("reqemi yazin"));
+
+var m = 1;
+
+
+while (m <= n) {
+        
+ if (n % m == 0 && m%2!=0) 
+{
+  console.log(m);
+        
+}
+        
+m++;
+    
+
+}

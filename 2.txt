@@ -1,0 +1,16 @@
+var n = Number(prompt(Reqemi daxil edin));
+var digits = 1;
+if (n  0) {
+    while (n = 10) {
+        n = n  10;
+        digits++;
+    }
+    console.log(digits);
+} else {
+    console.log(Reqemi duzgun daxil edin!);
+}
+
+
+var n = prompt(Reqemi daxil edin);
+
+alert(n.length);
